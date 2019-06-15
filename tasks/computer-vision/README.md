@@ -5,3 +5,4 @@
 3. Object Detection
 4. Image Generation
 5. Denoising
+6. Gender Age and Emotion Detection
