@@ -22,3 +22,8 @@
 # For downloading pretrained model use 
 https://drive.google.com/open?id=1FtQvdgFhfUzxUgtXohU-fFCMm-gfQxGg
 
+![xx](https://github.com/zaid7860/ai-platform/blob/master/tasks/computer-vision/object-detection/Age-Gender-Emotion-Detector-master/Emotion%20Detector_screenshot_15.06.2019.png?raw=true)
+
+![dd](https://github.com/zaid7860/ai-platform/blob/master/tasks/computer-vision/object-detection/Age-Gender-Emotion-Detector-master/Emotion%20Detector__15.06.2019.png?raw=true)
+
+![s](https://github.com/zaid7860/ai-platform/blob/master/tasks/computer-vision/object-detection/Age-Gender-Emotion-Detector-master/Emotion%20Detector_screenshot_15.06..png?raw=true)
